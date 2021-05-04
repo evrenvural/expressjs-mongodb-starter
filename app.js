@@ -2,7 +2,7 @@ import express from 'express';
 import bodyParser from 'body-parser';
 
 import './src/model';
-import { connectWithDatabase } from './src/config';
+import { connectWithDatabase } from './config';
 import routes from './src/route';
 
 const app = express();

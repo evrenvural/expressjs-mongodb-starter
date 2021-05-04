@@ -1,6 +1,2 @@
-# Wat Sözlük Backend
-
-## Kullanılan Teknolojiler
-
-- Express.js
-- MongoDB
+# expressjs-mongodb-starter
+This is starter project for NodeJS.

@@ -1,10 +1,10 @@
 import { Router } from 'express';
 
-import User from './user';
+import { todo } from './api';
 
 const router = Router();
 
 // Routes
-router.use('/user', User);
+router.use('/todo', todo);
 
 export default router;
