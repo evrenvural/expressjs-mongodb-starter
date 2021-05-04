@@ -1,10 +1,10 @@
 {
-  "name": "hello-world",
+  "name": "wat-sozluk-backend",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start": "nodemon --exec babel-node app.js",
+    "start": "npx nodemon --exec babel-node app.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Evren VURAL",

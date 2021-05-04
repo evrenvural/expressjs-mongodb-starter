@@ -1,2 +1,6 @@
-# expressjs-mongodb-starter
-This is starter project for NodeJS.
+# Wat Sözlük Backend
+
+## Kullanılan Teknolojiler
+
+- Express.js
+- MongoDB
